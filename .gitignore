@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 以降追加分
+# 仮想環境
+venv/
+
+# PyCharm関連
+.idea/
+
