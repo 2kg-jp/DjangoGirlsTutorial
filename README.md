@@ -18,7 +18,14 @@
     ```
     
 ### Django
-* プロジェクト作成
-  ```commandline
-  django-admin.exe startproject mysite .
-  ```
+* [プロジェクトを作成しよう！ · HonKit](https://tutorial.djangogirls.org/ja/django_start_project/)
+  * プロジェクト作成
+    ```commandline
+    django-admin.exe startproject mysite .
+    ```
+
+  * DB作成
+    ```commandline
+    python manage.py migrate
+    ```
+
