@@ -38,3 +38,7 @@
     ```commandline
     python manage.py makemigrations blog
     ```
+    
+    ```commandline
+    python manage.py migrate blog
+    ```
