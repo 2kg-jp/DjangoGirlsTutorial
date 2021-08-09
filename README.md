@@ -29,3 +29,8 @@
     python manage.py migrate
     ```
 
+  * アプリケーション作成
+    ```commandline
+    python manage.py startapp blog
+    ```
+    
