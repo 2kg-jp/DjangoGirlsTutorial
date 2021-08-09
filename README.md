@@ -34,3 +34,7 @@
     python manage.py startapp blog
     ```
     
+  * データベースにモデルのテーブルを追加
+    ```commandline
+    python manage.py makemigrations blog
+    ```
