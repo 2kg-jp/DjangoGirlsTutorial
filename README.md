@@ -54,3 +54,9 @@
 
   * 管理画面URL
     * http://127.0.0.1:8000/admin/
+
+  * Django shellの起動
+    ```commandline
+    python manage.py shell
+    ```
+
