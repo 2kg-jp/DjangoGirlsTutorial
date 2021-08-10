@@ -42,3 +42,15 @@
     ```commandline
     python manage.py migrate blog
     ```
+
+  * 管理ユーザ作成
+    ```commandline
+    python manage.py createsuperuser
+    ```
+    * 管理ユーザ
+      * ユーザ名： admin
+      * パスワード： pass
+      * メールアドレス： admin@example.com
+
+  * 管理画面URL
+    * http://127.0.0.1:8000/admin/
